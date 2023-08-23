@@ -6,8 +6,8 @@
 
 | Название | Презентация | Видео | Дополнительные материалы |
 | -------- | ----------- | ----- | ------------------------ |
-| [Бэкенд на плюсах для нормальных людей](https://github.com/backend_for_sane_people) | [Online](https://cppmoscow.com/backend_for_sane_people) | [YouTube](https://youtu.be/NLdvFr3tSuY?si=cWi2fROW8MkHecd0) | [drogon_sample](https://github.com/cppmoscow/drogon_sample), [oat_sample](https://github.com/cppmoscow/oat_sample), [userver_sample](https://github.com/cppmoscow/userver_sample) |
-| [std::expected. Обработка ошибок в C++23](https://github.com/exceptions_handling_in_cpp23) | [PDF](https://github.com/cppmoscow/exceptions_handling_in_cpp23/blob/main/slides.pdf) | [YouTube](https://youtu.be/PdRWkw2kaqE?si=xDSOhXrNNFC0rmI7) | --- |
+| [Бэкенд на плюсах для нормальных людей](https://github.com/cppmoscow/backend_for_sane_people) | [Online](https://cppmoscow.com/backend_for_sane_people) | [YouTube](https://youtu.be/NLdvFr3tSuY?si=cWi2fROW8MkHecd0) | [drogon_sample](https://github.com/cppmoscow/drogon_sample), [oat_sample](https://github.com/cppmoscow/oat_sample), [userver_sample](https://github.com/cppmoscow/userver_sample) |
+| [std::expected. Обработка ошибок в C++23](https://github.com/cppmoscow/exceptions_handling_in_cpp23) | [PDF](https://github.com/cppmoscow/exceptions_handling_in_cpp23/blob/main/slides.pdf) | [YouTube](https://youtu.be/PdRWkw2kaqE?si=xDSOhXrNNFC0rmI7) | --- |
 
 ## Прочие активности
 
